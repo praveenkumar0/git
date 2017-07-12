@@ -1,3 +1,0 @@
-this is my first file in git2 project
-iam adding new lines for checking checkout
-adding for status checking
